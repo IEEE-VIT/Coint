@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.jpeg">
+<img src="coint.png">
 </p>
 
 # Hacktoberfest 2022 with IEEE-VIT :blue_heart:
