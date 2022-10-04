@@ -3,7 +3,7 @@
 </p>
 
 # Coint
-A basic crypto currency app that displays real-time values and notifies when it reaches a certain price range set by the user.
+A basic crypto currency app that displays real-time values and notifies when it reaches a certain price range set by the user. The app also has a conversion feature to help users convert and compare the current currency and coin values.
 
 # Hacktoberfest 2022 with IEEE-VIT :blue_heart:
 
