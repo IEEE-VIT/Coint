@@ -2,6 +2,9 @@
 <img src="coint.png">
 </p>
 
+# Coint
+A basic crypto currency app that displays real-time values and notifies when it reaches a certain price range set by the user.
+
 # Hacktoberfest 2022 with IEEE-VIT :blue_heart:
 
 Support open source software by participating in [Hacktoberfest](https://hacktoberfest.digitalocean.com) and get goodies and a free t-shirt! :blue_heart:
