@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         loadFragment(HomeFragment())
-
+        //bottom navigation
         binding.bottomNav.setOnItemSelectedListener {
             when(it.itemId){
                 R.id.home -> {
