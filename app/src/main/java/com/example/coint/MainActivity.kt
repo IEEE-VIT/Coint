@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         loadFragment(HomeFragment())
-
+        //bottom navigation
         binding.bottomNav.setOnItemSelectedListener {
             when(it.itemId){
                 R.id.home -> {
@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
-
+    //function to load fragment
     private fun loadFragment(fragment: Fragment){
         val transaction = supportFragmentManager.beginTransaction()
         transaction.replace(R.id.container,fragment)
